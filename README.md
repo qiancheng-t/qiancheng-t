@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 ## 👓Stats ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiancheng-t)](https://github.com/qiancheng-t/github-readme-stats)
+[![qiancheng-t](https://github-readme-stats.vercel.app/api?username=qiancheng-t)](https://github.com/qiancheng-t/github-readme-stats)
