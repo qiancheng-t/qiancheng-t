@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-*[0.0]:- 🔭 I’m currently working on 
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning Java/Spring/spring boot
 - <!--
 - 👯 I’m looking to collaborate on ...
