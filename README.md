@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
 
 ## 👓Stats ##
-[![qiancheng-t](https://github-readme-stats.vercel.app/api?username=qiancheng-t)](https://github.com/qiancheng-t/github-readme-stats)
+[![qiancheng-t](https://github-readme-stats.vercel.app/api/top-langs/?username=qiancheng-t&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![qiancheng-t](https://github-readme-stats.vercel.app/api?username=qiancheng-t&show_icons=true&theme=merko)](https://github.com/qiancheng-t/github-readme-stats)
