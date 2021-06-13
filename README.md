@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## 🎈Find me ##
 [![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E5%8D%83%E5%9F%8E%E5%90%9B%E7%9A%84%E5%B0%8F%E7%AB%99-green)](https://www.qcjun.cn)
 [![](https://img.shields.io/badge/QQ-992887291-success?logo=tencentqq)](http://wpa.qq.com/msgrd?v=3&uin=992887291&site=qq&menu=yes)
+[![](https://img.shields.io/badge/mail-992887291%40qq.com-blue?logo=gmail)]()
 
 
 ## 👓Stats ##
