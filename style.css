@@ -3,19 +3,19 @@ a {
 }
 
 main {
-  display: flex
-    flex: auto
+  display: flex;
+    flex: auto;
 }
 
 body {
-  display: flex
-  flex-direction: column
+  display: flex;
+  flex-direction: column;
 }
 
 aside {
-  flex: 1
+  flex: 1;
 }
 
 article {
-  flex: 3
+  flex: 3;
 }
